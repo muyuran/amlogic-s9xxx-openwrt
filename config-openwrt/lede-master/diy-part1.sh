@@ -11,4 +11,4 @@
 
 # other
 # rm -rf package/lean/{samba4,luci-app-samba4,luci-app-ttyd}
-
+git clone https://github.com/jerrykuku/luci-app-ttnode.git package/lean/luci-app-ttnode
